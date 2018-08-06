@@ -1,0 +1,1 @@
+set FLASK_APP variable in cmdline equal to flaskApp.py
